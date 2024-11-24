@@ -19,8 +19,7 @@ JavaScript: Handles user input, currency conversion logic, and fetching real-tim
 Objective:
 To build a simple yet practical web application for converting currencies. This project is great for practicing integration with APIs, handling user input, and performing calculations with JavaScript.
 
-Preview:
-Include a screenshot or a link to a live demo if available.
+
 
 
 
